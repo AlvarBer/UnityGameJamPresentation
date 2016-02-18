@@ -1,0 +1,1220 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "https://s-media-cache-ak0.pinimg.com/originals/09/c0/4b/09c04b5c6a865d101a20c734477beac1.gif",
+          "type": "Image",
+          "x": 262,
+          "y": 131,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 287,
+          "y": 6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#ff0000\">Disclaimer</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 41,
+          "y": 654,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#ff0000\">For Entertainment Purposes Only</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 137,
+      "y": 106
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 266,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Quien es este tío?<br>",
+          "selected": false
+        },
+        {
+          "src": "http://blorente.github.io/images/avatar.png",
+          "type": "Image",
+          "x": 788,
+          "y": 10,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 328,
+          "y": 189,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Tiene un juego en Ouya<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 250,
+          "y": 355,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Forma parte de Red Bricks Studio<br>",
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "TextBox": {},
+          "x": 383,
+          "y": 270,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Otro en Android<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 200,
+          "y": 539,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Superviviente a una Ludum y una Global<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 312,
+          "y": 448,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Impartió un curso de TCG<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/yutpmDm.png?1",
+          "type": "Image",
+          "x": 30,
+          "y": 279,
+          "scale": {
+            "x": 0.36594202898550726,
+            "y": 0.36594202898550726,
+            "width": 202,
+            "height": 203.09782608695653
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 416,
+      "y": 106,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 358,
+          "y": 14,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Game qué?<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 287,
+          "y": 238,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Una Game Jam es ....<br>",
+          "selected": false
+        },
+        {
+          "src": "http://www.gamejam.es/images/ggj_logo.png",
+          "type": "Image",
+          "x": 33,
+          "y": 363,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/en/a/ac/Ludum_Dare_Logo.png",
+          "type": "Image",
+          "x": 407,
+          "y": 637,
+          "scale": {
+            "x": 0.2508333333333334,
+            "y": 0.2508333333333334,
+            "width": 602.0000000000002,
+            "height": 100.33333333333336
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/en/5/51/Nordic_Game_Jam_logo.png",
+          "type": "Image",
+          "x": 749,
+          "y": 15,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 420,
+          "y": 383,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "[Cuentas de que va una Game Jam]",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-smoke",
+      "x": 691,
+      "y": 107
+    },
+    {
+      "components": [
+        {
+          "src": "http://forum.unity3d.com/attachments/unity-rainbow-strobe-interface-skin-gif.108635/",
+          "type": "Image",
+          "x": 162,
+          "y": 153,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "108635/",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 415,
+          "y": 13,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Unity...",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 331,
+          "y": 633,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "[Cuentas algo de Unity]",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 958,
+      "y": 107
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 282,
+          "y": 27,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Programar bien?<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/YfXKl3P.jpg?1",
+          "type": "Image",
+          "x": 206,
+          "y": 165,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 321,
+          "y": 634,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "[Aqui cuentas que nanai]<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1225,
+      "y": 107
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 101,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Principios de la programacion<br>",
+          "selected": false
+        },
+        {
+          "src": "https://media.giphy.com/media/3o85xuO1siCT147FrG/giphy.gif",
+          "type": "Image",
+          "x": 34,
+          "y": 251,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 533,
+          "y": 267,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"'Lato', sans-serif\"><font face=\"'Lato', sans-serif\"><font face=\"'Lato', sans-serif\"><font color=\"#333333\">* Encapsulacion<br><font face=\"'Lato', sans-serif\">*<font face=\"'Lato', sans-serif\"> Abstracción</font><br>* Patrones</font></font><br></font></font></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1221,
+      "y": 295
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 339,
+          "y": 6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Excepciones",
+          "selected": false
+        },
+        {
+          "src": "http://cdn4.dualshockers.com/wp-content/uploads/2015/06/CHjlWeZUYAAALft-copy-ds1-670x377-constrain.jpg",
+          "type": "Image",
+          "x": 14,
+          "y": 111,
+          "scale": {
+            "x": 0.7262103505843072,
+            "y": 0.7262103505843072,
+            "width": 435,
+            "height": 244.7328881469115
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 498,
+          "y": 198,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "[Usa el input manager]<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 46,
+          "y": 492,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "[para inteligencia Artificial también]",
+          "selected": false
+        },
+        {
+          "src": "http://m.c.lnkd.licdn.com/mpr/mpr/p/1/005/0a2/3f4/2d96566.jpg",
+          "type": "Image",
+          "x": 626,
+          "y": 338,
+          "scale": {
+            "x": 0.37500000000000006,
+            "y": 0.37500000000000006,
+            "width": 375.00000000000006,
+            "height": 357.00000000000006
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 958,
+      "y": 292
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 449,
+          "y": 11,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Git?",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "src": "http://new2.fjcdn.com/comments/5227521+_6e8e20df6f4e05527303266eefd04ff4.jpg",
+          "type": "Image",
+          "x": 122,
+          "y": 141,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 148,
+          "y": 528,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "La mejor manera de aprender git es<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 273,
+          "y": 626,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Tener un amigo que sepa de git<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 694,
+      "y": 289
+    },
+    {
+      "components": [
+        {
+          "src": "http://imgs.xkcd.com/comics/git.png",
+          "type": "Image",
+          "x": 42,
+          "y": 278,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://imgs.xkcd.com/comics/git_commit.png",
+          "type": "Image",
+          "x": 537,
+          "y": 131,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 373,
+          "y": -1,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Git is hard<br>",
+          "selected": false
+        },
+        {
+          "src": "https://media.giphy.com/media/fpCa9e3J5YmWc/giphy.gif",
+          "type": "Image",
+          "x": 425,
+          "y": 427,
+          "scale": {
+            "x": 0.440625,
+            "y": 0.440625,
+            "width": 564,
+            "height": 317.25
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 615,
+          "y": 434,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\"><b>[git schwifty]</b><br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://think-like-a-git.net/assets/images2/homeomorphic_endofunctors.jpg",
+          "type": "Image",
+          "x": 9,
+          "y": 76,
+          "scale": {
+            "x": 0.7545787545787546,
+            "y": 0.7545787545787546,
+            "width": 412,
+            "height": 193.9267399267399
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 418,
+      "y": 288
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 363,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": ".gitignore",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 320,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Meter nuestro .gitignore<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 140,
+      "y": 284
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 394,
+          "y": 22,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Gitflow<br>",
+          "selected": false
+        },
+        {
+          "src": "https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/centralized-workflow/05.svg",
+          "type": "Image",
+          "x": 224,
+          "y": 142,
+          "scale": {
+            "width": 576.3948648004173,
+            "height": 576.3948648004173
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 266,
+          "y": 646,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">Modelo centralizado(sin ramas)<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 144,
+      "y": 476
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 394,
+          "y": 43,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Gitflow",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 269,
+          "y": 356,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "[Aquí va un dibujito que ya haré]<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 418,
+      "y": 477
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 323,
+          "y": 14,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Git + Binarios<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 369,
+          "y": 152,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Todo en el repo<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 695,
+      "y": 477
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 310,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Git + binarios<br>",
+          "selected": false
+        },
+        {
+          "src": "https://assets-cdn.github.com/images/modules/pricing/git-lfs-logo.png",
+          "type": "Image",
+          "x": 63,
+          "y": 269,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 670,
+          "y": 279,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Git sym<br>",
+          "selected": false
+        },
+        {
+          "src": "https://git-annex.branchable.com/logo_small.png",
+          "type": "Image",
+          "x": 95,
+          "y": 526,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 128,
+          "y": 412,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Git fat<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 723,
+          "y": 450,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Git media<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 378,
+          "y": 520,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "git-bigstore",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 962,
+      "y": 479
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 406,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Interfaces",
+          "selected": false
+        },
+        {
+          "src": "http://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/menu_66.png?itok=hpWC0JFS",
+          "type": "Image",
+          "x": 54,
+          "y": 120,
+          "scale": {
+            "x": 0.5958279009126467,
+            "y": 0.5958279009126467,
+            "width": 457,
+            "height": 324.72620599739247
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/gameover_24.png?itok=-X2JzNIq",
+          "type": "Image",
+          "x": 521,
+          "y": 410,
+          "scale": {
+            "x": 0.6297262059973925,
+            "y": 0.6297262059973925,
+            "width": 483.00000000000006,
+            "height": 343.2007822685789
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": true,
+      "active": true,
+      "x": 1225,
+      "y": 482
+    },
+    {
+      "components": [
+        {
+          "src": "http://ludumdare.com/compo/wp-content/uploads/2015/06/gameJamTemplate.png",
+          "type": "Image",
+          "x": 164,
+          "y": 157,
+          "scale": {
+            "x": 0.6689059500959693,
+            "y": 0.6689059500959693,
+            "width": 697,
+            "height": 391.30998080614205
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 369,
+          "y": 24,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\" face=\"Lato\">Interfaces</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 1229,
+      "y": 669
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 224,
+          "y": 29,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Arte / Animaciones<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 278,
+          "y": 266,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "[Consultar con artistas / Pedro]",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-smoke",
+      "x": 958,
+      "y": 669
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "background": "bg-transparent",
+      "x": 690,
+      "y": 671
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 340,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Gracias!",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 18,
+          "y": 326,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 50,
+          "text": "<div align=\"center\"><font color=\"#333333\" face=\"Lato\">Esperamos que después de esta charla esteis<br>&nbsp;deseos de participar en una Game Jam!</font><br></div>",
+          "selected": false,
+          "skewX": 0,
+          "skewY": 0
+        },
+        {
+          "src": "https://media.giphy.com/media/dPYfgTPzpbWgw/giphy.gif",
+          "type": "Image",
+          "x": 297,
+          "y": 492,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "https://pbs.twimg.com/profile_images/572186688232898560/c5hDOc7q.jpeg",
+          "type": "Image",
+          "x": 21,
+          "y": 32,
+          "scale": {
+            "x": 0.7025,
+            "y": 0.7025,
+            "width": 281,
+            "height": 281
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 414,
+      "y": 670,
+      "markdown": ""
+    }
+  ],
+  "background": "bg-solid-smoke",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 406,
+        "y": 25,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "Interfaces",
+        "selected": false
+      },
+      {
+        "src": "http://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/menu_66.png?itok=hpWC0JFS",
+        "type": "Image",
+        "x": 54,
+        "y": 120,
+        "scale": {
+          "x": 0.5958279009126467,
+          "y": 0.5958279009126467,
+          "width": 457,
+          "height": 324.72620599739247
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "http://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/gameover_24.png?itok=-X2JzNIq",
+        "type": "Image",
+        "x": 521,
+        "y": 410,
+        "scale": {
+          "x": 0.6297262059973925,
+          "y": 0.6297262059973925,
+          "width": 483.00000000000006,
+          "height": 343.2007822685789
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 14,
+    "selected": true,
+    "active": true,
+    "x": 1225,
+    "y": 482
+  },
+  "fileName": "unity",
+  "surface": "img:http://i.imgur.com/fTj6f2I.png",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
