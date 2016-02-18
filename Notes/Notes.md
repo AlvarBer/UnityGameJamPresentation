@@ -20,7 +20,6 @@ Curso Unity 2016
 - CODE: TODOS los programadores tienen que seguir el mismo workflow. (Presentamos el nuestro)
 - CODE: NO esperes reutilizar el código. (Buenas prácticas).
 - ARTE: Define MUY BIEN y DESDE EL PRINCIPIO cómo quieres que te den las cosas los artistas. (Explico los problemas con MEOW).
-- SONIDO: Ten en cuenta la música!. (Cómo se pone música en Unity).
 - Google-foo.
 
 ### Diseña pequeño

@@ -188,23 +188,10 @@
           "selected": false
         },
         {
-          "TextBox": {},
-          "x": 287,
-          "y": 238,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "Una Game Jam es ....<br>",
-          "selected": false
-        },
-        {
           "src": "http://www.gamejam.es/images/ggj_logo.png",
           "type": "Image",
-          "x": 33,
-          "y": 363,
+          "x": 211,
+          "y": 125,
           "scale": {
             "x": 1,
             "y": 1
@@ -215,8 +202,8 @@
         {
           "src": "https://upload.wikimedia.org/wikipedia/en/a/ac/Ludum_Dare_Logo.png",
           "type": "Image",
-          "x": 407,
-          "y": 637,
+          "x": 362,
+          "y": 608,
           "scale": {
             "x": 0.2508333333333334,
             "y": 0.2508333333333334,
@@ -224,31 +211,6 @@
             "height": 100.33333333333336
           },
           "imageType": "PNG",
-          "selected": false
-        },
-        {
-          "src": "https://upload.wikimedia.org/wikipedia/en/5/51/Nordic_Game_Jam_logo.png",
-          "type": "Image",
-          "x": 749,
-          "y": 15,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "imageType": "PNG",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 420,
-          "y": 383,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "[Cuentas de que va una Game Jam]",
           "selected": false
         }
       ],
@@ -290,19 +252,6 @@
           "size": 64,
           "text": "Unity...",
           "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 331,
-          "y": 633,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "[Cuentas algo de Unity]",
-          "selected": false
         }
       ],
       "z": 0,
@@ -320,40 +269,113 @@
       "components": [
         {
           "TextBox": {},
-          "x": 282,
-          "y": 27,
+          "x": 309,
+          "y": 55,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 64,
-          "text": "Programar bien?<br>",
+          "text": "Workflow",
+          "size": 93,
           "selected": false
         },
         {
-          "src": "http://i.imgur.com/YfXKl3P.jpg?1",
+          "src": "http://docs.unity3d.com/uploads/Main/NewScriptIcon.png",
           "type": "Image",
-          "x": 206,
-          "y": 165,
+          "x": 189,
+          "y": 176,
           "scale": {
-            "x": 1,
-            "y": 1
+            "x": 0.9353233830845771,
+            "y": 0.9353233830845771,
+            "width": 188,
+            "height": 141.23383084577114
           },
-          "imageType": "JPG",
+          "imageType": "PNG",
           "selected": false
         },
         {
-          "TextBox": {},
-          "x": 321,
-          "y": 634,
+          "src": "https://unity3d.com/sites/default/files/5.3.0-relnotes-rigid-body-collider-mass.png",
+          "type": "Image",
+          "x": 48,
+          "y": 332,
+          "scale": {
+            "x": 0.5102389078498294,
+            "y": 0.5102389078498294,
+            "width": 299,
+            "height": 198.48293515358364
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://findicons.com/files/icons/1580/devine_icons_part_2/512/mp3.png",
+          "type": "Image",
+          "x": 298,
+          "y": 563,
+          "scale": {
+            "x": 0.1953125,
+            "y": 0.1953125,
+            "width": 100,
+            "height": 100
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/2000px-Arrow_east.svg.png",
+          "type": "Image",
+          "x": 386,
+          "y": 283,
+          "scale": {
+            "x": 0.0925,
+            "y": 0.0925,
+            "width": 185,
+            "height": 74.8325
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 0.41
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/2000px-Arrow_east.svg.png",
+          "type": "Image",
+          "x": 363,
+          "y": 392,
+          "scale": {
+            "x": 0.09750000000000006,
+            "y": 0.09750000000000006,
+            "width": 195.0000000000001,
+            "height": 78.87750000000005
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/2000px-Arrow_east.svg.png",
+          "type": "Image",
+          "x": 400,
+          "y": 519,
+          "scale": {
+            "x": 0.09249999999999994,
+            "y": 0.09249999999999994,
+            "width": 184.9999999999999,
+            "height": 74.83249999999995
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": -0.54
+        },
+        {
+          "src": "http://blog.gfx47.com/wp-content/uploads/2011/03/unity-crate1.png",
+          "type": "Image",
+          "x": 602,
+          "y": 295,
           "scale": {
             "x": 1,
             "y": 1
           },
-          "type": "TextBox",
-          "size": 36,
-          "text": "[Aqui cuentas que nanai]<br>",
+          "imageType": "PNG",
           "selected": false
         }
       ],
@@ -365,8 +387,8 @@
       "index": 4,
       "selected": false,
       "active": false,
-      "x": 1225,
-      "y": 107
+      "x": 1300,
+      "y": 180
     },
     {
       "components": [
@@ -417,22 +439,116 @@
       "index": 5,
       "selected": false,
       "active": false,
-      "x": 1221,
-      "y": 295
+      "x": 1225,
+      "y": 107
     },
     {
       "components": [
         {
           "TextBox": {},
-          "x": 339,
-          "y": 6,
+          "x": 282,
+          "y": 27,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 64,
-          "text": "Excepciones",
+          "text": "Programar bien?<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/YfXKl3P.jpg?1",
+          "type": "Image",
+          "x": 206,
+          "y": 165,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1221,
+      "y": 295
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/Rd0EgO2.gif",
+          "type": "Image",
+          "x": 173,
+          "y": 147,
+          "scale": {
+            "x": 1.4125,
+            "y": 1.4125,
+            "width": 678,
+            "height": 381.375
+          },
+          "imageType": "GIF",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 2140,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 283,
+          "y": 312,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Aún así...<br>",
+          "size": 120,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 2420,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 136,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Hay código que sí hemos reutilizado<br>",
           "selected": false
         },
         {
@@ -451,35 +567,35 @@
         },
         {
           "TextBox": {},
-          "x": 498,
-          "y": 198,
+          "x": 499,
+          "y": 144,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 36,
-          "text": "[Usa el input manager]<br>",
+          "size": 48,
+          "text": "<div align=\"center\">Input<br>(Soporte para mandos)<br></div>",
           "selected": false
         },
         {
           "TextBox": {},
-          "x": 46,
-          "y": 492,
+          "x": 39,
+          "y": 520,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 36,
-          "text": "[para inteligencia Artificial también]",
+          "size": 48,
+          "text": "<div align=\"center\">AI<br></div><div align=\"center\">(Máquina de estados)</div>",
           "selected": false
         },
         {
           "src": "http://m.c.lnkd.licdn.com/mpr/mpr/p/1/005/0a2/3f4/2d96566.jpg",
           "type": "Image",
-          "x": 626,
-          "y": 338,
+          "x": 552,
+          "y": 346,
           "scale": {
             "x": 0.37500000000000006,
             "y": 0.37500000000000006,
@@ -495,7 +611,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 6,
+      "index": 9,
       "selected": false,
       "active": false,
       "x": 958,
@@ -561,7 +677,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 7,
+      "index": 10,
       "selected": false,
       "active": false,
       "x": 694,
@@ -653,7 +769,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 8,
+      "index": 11,
       "selected": false,
       "active": false,
       "x": 418,
@@ -693,7 +809,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 9,
+      "index": 12,
       "selected": false,
       "active": false,
       "x": 140,
@@ -745,7 +861,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 10,
+      "index": 13,
       "selected": false,
       "active": false,
       "x": 144,
@@ -785,7 +901,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 11,
+      "index": 14,
       "selected": false,
       "active": false,
       "x": 418,
@@ -825,7 +941,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 12,
+      "index": 15,
       "selected": false,
       "active": false,
       "x": 695,
@@ -928,7 +1044,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 13,
+      "index": 16,
       "selected": false,
       "active": false,
       "x": 962,
@@ -983,9 +1099,9 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 14,
-      "selected": true,
-      "active": true,
+      "index": 17,
+      "selected": false,
+      "active": false,
       "x": 1225,
       "y": 482
     },
@@ -1024,7 +1140,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 15,
+      "index": 18,
       "selected": false,
       "active": false,
       "x": 1229,
@@ -1047,15 +1163,116 @@
         },
         {
           "TextBox": {},
-          "x": 278,
-          "y": 266,
+          "x": 214,
+          "y": 178,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 36,
-          "text": "[Consultar con artistas / Pedro]",
+          "size": 43,
+          "text": "<div align=\"center\">La mayor parte de la Jam, <br>vuestro juego tendrá esta pinta:<br></div>",
+          "selected": false
+        },
+        {
+          "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 50 50\" preserveAspectRatio=\"none\"><rect width=\"50\" height=\"50\"/></svg>",
+          "type": "Shape",
+          "x": 178,
+          "y": 390,
+          "scale": {
+            "width": 100,
+            "height": 100
+          },
+          "selected": false,
+          "fill": "#ff0000"
+        },
+        {
+          "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 50 50\" preserveAspectRatio=\"none\"><rect width=\"50\" height=\"50\"/></svg>",
+          "type": "Shape",
+          "x": 183,
+          "y": 505,
+          "scale": {
+            "width": 655.399995228913,
+            "height": 33.15661787455718
+          },
+          "selected": false,
+          "fill": "#000000"
+        },
+        {
+          "markup": "<svg xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" version=\"1.0\" viewBox=\"0 0 645 585\" preserveAspectRatio=\"none\"><defs id=\"defs4\" /><g id=\"layer1\"><path d=\"M 297.29747,550.86823 C 283.52243,535.43191 249.1268,505.33855 220.86277,483.99412 C 137.11867,420.75228 125.72108,411.5999 91.719238,380.29088 C 29.03471,322.57071 2.413622,264.58086 2.5048478,185.95124 C 2.5493594,147.56739 5.1656152,132.77929 15.914734,110.15398 C 34.151433,71.768267 61.014996,43.244667 95.360052,25.799457 C 119.68545,13.443675 131.6827,7.9542046 172.30448,7.7296236 C 214.79777,7.4947896 223.74311,12.449347 248.73919,26.181459 C 279.1637,42.895777 310.47909,78.617167 316.95242,103.99205 L 320.95052,119.66445 L 330.81015,98.079942 C 386.52632,-23.892986 564.40851,-22.06811 626.31244,101.11153 C 645.95011,140.18758 648.10608,223.6247 630.69256,270.6244 C 607.97729,331.93377 565.31255,378.67493 466.68622,450.30098 C 402.0054,497.27462 328.80148,568.34684 323.70555,578.32901 C 317.79007,589.91654 323.42339,580.14491 297.29747,550.86823 z\" id=\"path2417\"/><g transform=\"translate(129.28571,-64.285714)\" id=\"g2221\"/></g></svg>",
+          "type": "Shape",
+          "x": 308,
+          "y": 417,
+          "scale": {
+            "width": 58.36013326203553,
+            "height": 54.08611520233539
+          },
+          "selected": false,
+          "fill": "#fba8fb",
+          "rotate": -0.02
+        },
+        {
+          "markup": "<svg xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" version=\"1.0\" viewBox=\"0 0 645 585\" preserveAspectRatio=\"none\"><defs id=\"defs4\" /><g id=\"layer1\"><path d=\"M 297.29747,550.86823 C 283.52243,535.43191 249.1268,505.33855 220.86277,483.99412 C 137.11867,420.75228 125.72108,411.5999 91.719238,380.29088 C 29.03471,322.57071 2.413622,264.58086 2.5048478,185.95124 C 2.5493594,147.56739 5.1656152,132.77929 15.914734,110.15398 C 34.151433,71.768267 61.014996,43.244667 95.360052,25.799457 C 119.68545,13.443675 131.6827,7.9542046 172.30448,7.7296236 C 214.79777,7.4947896 223.74311,12.449347 248.73919,26.181459 C 279.1637,42.895777 310.47909,78.617167 316.95242,103.99205 L 320.95052,119.66445 L 330.81015,98.079942 C 386.52632,-23.892986 564.40851,-22.06811 626.31244,101.11153 C 645.95011,140.18758 648.10608,223.6247 630.69256,270.6244 C 607.97729,331.93377 565.31255,378.67493 466.68622,450.30098 C 402.0054,497.27462 328.80148,568.34684 323.70555,578.32901 C 317.79007,589.91654 323.42339,580.14491 297.29747,550.86823 z\" id=\"path2417\"/><g transform=\"translate(129.28571,-64.285714)\" id=\"g2221\"/></g></svg>",
+          "type": "Shape",
+          "x": 606,
+          "y": 420,
+          "scale": {
+            "width": 58.36013326203553,
+            "height": 54.08611520233539
+          },
+          "selected": false,
+          "fill": "#fba8fb",
+          "rotate": -0.02
+        },
+        {
+          "markup": "<svg xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" version=\"1.0\" viewBox=\"0 0 645 585\" preserveAspectRatio=\"none\"><defs id=\"defs4\" /><g id=\"layer1\"><path d=\"M 297.29747,550.86823 C 283.52243,535.43191 249.1268,505.33855 220.86277,483.99412 C 137.11867,420.75228 125.72108,411.5999 91.719238,380.29088 C 29.03471,322.57071 2.413622,264.58086 2.5048478,185.95124 C 2.5493594,147.56739 5.1656152,132.77929 15.914734,110.15398 C 34.151433,71.768267 61.014996,43.244667 95.360052,25.799457 C 119.68545,13.443675 131.6827,7.9542046 172.30448,7.7296236 C 214.79777,7.4947896 223.74311,12.449347 248.73919,26.181459 C 279.1637,42.895777 310.47909,78.617167 316.95242,103.99205 L 320.95052,119.66445 L 330.81015,98.079942 C 386.52632,-23.892986 564.40851,-22.06811 626.31244,101.11153 C 645.95011,140.18758 648.10608,223.6247 630.69256,270.6244 C 607.97729,331.93377 565.31255,378.67493 466.68622,450.30098 C 402.0054,497.27462 328.80148,568.34684 323.70555,578.32901 C 317.79007,589.91654 323.42339,580.14491 297.29747,550.86823 z\" id=\"path2417\"/><g transform=\"translate(129.28571,-64.285714)\" id=\"g2221\"/></g></svg>",
+          "type": "Shape",
+          "x": 412,
+          "y": 416,
+          "scale": {
+            "width": 58.36013326203553,
+            "height": 54.08611520233539
+          },
+          "selected": false,
+          "fill": "#fba8fb",
+          "rotate": -0.02
+        },
+        {
+          "markup": "<svg xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" version=\"1.0\" viewBox=\"0 0 645 585\" preserveAspectRatio=\"none\"><defs id=\"defs4\" /><g id=\"layer1\"><path d=\"M 297.29747,550.86823 C 283.52243,535.43191 249.1268,505.33855 220.86277,483.99412 C 137.11867,420.75228 125.72108,411.5999 91.719238,380.29088 C 29.03471,322.57071 2.413622,264.58086 2.5048478,185.95124 C 2.5493594,147.56739 5.1656152,132.77929 15.914734,110.15398 C 34.151433,71.768267 61.014996,43.244667 95.360052,25.799457 C 119.68545,13.443675 131.6827,7.9542046 172.30448,7.7296236 C 214.79777,7.4947896 223.74311,12.449347 248.73919,26.181459 C 279.1637,42.895777 310.47909,78.617167 316.95242,103.99205 L 320.95052,119.66445 L 330.81015,98.079942 C 386.52632,-23.892986 564.40851,-22.06811 626.31244,101.11153 C 645.95011,140.18758 648.10608,223.6247 630.69256,270.6244 C 607.97729,331.93377 565.31255,378.67493 466.68622,450.30098 C 402.0054,497.27462 328.80148,568.34684 323.70555,578.32901 C 317.79007,589.91654 323.42339,580.14491 297.29747,550.86823 z\" id=\"path2417\"/><g transform=\"translate(129.28571,-64.285714)\" id=\"g2221\"/></g></svg>",
+          "type": "Shape",
+          "x": 510,
+          "y": 415,
+          "scale": {
+            "width": 58.36013326203553,
+            "height": 54.08611520233539
+          },
+          "selected": false,
+          "fill": "#fba8fb",
+          "rotate": -0.02
+        },
+        {
+          "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 571.11 571.11\" preserveAspectRatio=\"none\"><path d=\"M535.441,412.339A280.868,280.868 0 1,1 536.186,161.733L284.493,286.29Z\"/></svg>",
+          "type": "Shape",
+          "x": 719,
+          "y": 390,
+          "scale": {
+            "width": 107.46716869964541,
+            "height": 111.47679870494937
+          },
+          "selected": false,
+          "rotate": 3.1
+        },
+        {
+          "TextBox": {},
+          "x": 254,
+          "y": 595,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "¿Quién dispara a quién?<br>",
           "selected": false
         }
       ],
@@ -1064,12 +1281,79 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 16,
+      "index": 19,
       "selected": false,
       "active": false,
       "background": "bg-solid-smoke",
       "x": 958,
       "y": 669
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 112,
+          "y": 66,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Pero es importante ponerse de acuerdo:<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 56,
+          "y": 481,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Los artistas no tienen por qué saber de Unity<br><br>Tú no tienes por qué saber de Photoshop<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 419,
+          "y": 692,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "(digoooo, GIMP)",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/WN41sl2.png",
+          "type": "Image",
+          "x": 67,
+          "y": 188,
+          "scale": {
+            "x": 0.24456094364351244,
+            "y": 0.24456094364351244,
+            "width": 933,
+            "height": 250.43040629095674
+          },
+          "imageType": "PNG",
+          "selected": true
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": true,
+      "active": true,
+      "x": 5780,
+      "y": 1020
     },
     {
       "components": [],
@@ -1078,7 +1362,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 17,
+      "index": 21,
       "selected": false,
       "active": false,
       "background": "bg-transparent",
@@ -1147,7 +1431,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 18,
+      "index": 22,
       "selected": false,
       "active": false,
       "x": 414,
@@ -1160,44 +1444,56 @@
     "components": [
       {
         "TextBox": {},
-        "x": 406,
-        "y": 25,
+        "x": 112,
+        "y": 66,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
         "size": 48,
-        "text": "Interfaces",
+        "text": "Pero es importante ponerse de acuerdo:<br>",
         "selected": false
       },
       {
-        "src": "http://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/menu_66.png?itok=hpWC0JFS",
-        "type": "Image",
-        "x": 54,
-        "y": 120,
+        "TextBox": {},
+        "x": 56,
+        "y": 481,
         "scale": {
-          "x": 0.5958279009126467,
-          "y": 0.5958279009126467,
-          "width": 457,
-          "height": 324.72620599739247
+          "x": 1,
+          "y": 1
         },
-        "imageType": "PNG",
+        "type": "TextBox",
+        "size": 48,
+        "text": "Los artistas no tienen por qué saber de Unity<br><br>Tú no tienes por qué saber de Photoshop<br>",
         "selected": false
       },
       {
-        "src": "http://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/gameover_24.png?itok=-X2JzNIq",
-        "type": "Image",
-        "x": 521,
-        "y": 410,
+        "TextBox": {},
+        "x": 419,
+        "y": 692,
         "scale": {
-          "x": 0.6297262059973925,
-          "y": 0.6297262059973925,
-          "width": 483.00000000000006,
-          "height": 343.2007822685789
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "(digoooo, GIMP)",
+        "selected": false
+      },
+      {
+        "src": "http://i.imgur.com/WN41sl2.png",
+        "type": "Image",
+        "x": 67,
+        "y": 188,
+        "scale": {
+          "x": 0.24456094364351244,
+          "y": 0.24456094364351244,
+          "width": 933,
+          "height": 250.43040629095674
         },
         "imageType": "PNG",
-        "selected": false
+        "selected": true
       }
     ],
     "z": 0,
@@ -1205,16 +1501,18 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 14,
+    "index": 20,
     "selected": true,
     "active": true,
-    "x": 1225,
-    "y": 482
+    "x": 5780,
+    "y": 1020
   },
-  "fileName": "unity",
+  "fileName": "Unity 2016 Course",
   "surface": "img:http://i.imgur.com/fTj6f2I.png",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  }
+  },
+  "overviewX": 2958.5,
+  "overviewY": 563
 }
