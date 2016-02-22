@@ -1,5 +1,8 @@
 Curso Unity 2016
-===============================
+================
+
+Nuestro Workfow & Unity
+-----------------------
 
 ### Presentación
 
@@ -61,6 +64,7 @@ Curso Unity 2016
 
 Como programadores, estaremos creando Scripts la mayoría del tiempo (la otra parte es Animar y poner Sonidos).
 
+
 - IMPORTANTE: Asume que NO vas a reutilizar el código. Puede que lo reutilizes (código de IA), 
               pero intentar diseñar código reutilizable quita precioso tiempo de desarrollo. 
               El momento de hacer las librerías es ANTES de la Jam.
@@ -87,7 +91,29 @@ Como programadores, estaremos creando Scripts la mayoría del tiempo (la otra pa
             para que tengan en cuenta las proporciones.
             
 - [Google-foo] Acostumbraos a mirar las páginas de Unity. Es como un javadoc.
-            
+
+Git & Interfaces
+----------------
+
+### Git Gud
+
+* Git es casi tan jodido como Dark Souls
+* Linus Torvalds esta ido de la olla
+* Es poco intuitivo, inconsistente y la interfaz parece mi trabajo de IS
+* Pero es lo mejor que existe para el codigo
+
+### Git + Binarios
+
+* Si no lo tienes ya muy ensayado olvidate
+* Probablemente las mejores opciones sean Git LFS/ Git sym
+* Pero como todo, todas tienen sus problemas
+
+### Anchors and other dark magic
+
+* Nadie sabe como funcionan las interfaces en Unity
+* Pero no te hace falta con el pack de Menu template
+* Los 9 slice son guays
+           
 ### Arte
 
 - Tened un repertorio de cuadrados de colores preparados para hacer de placeholders. (Ejemplo con el paint).
@@ -100,11 +126,5 @@ Como programadores, estaremos creando Scripts la mayoría del tiempo (la otra pa
         - Ejemplo de importación.
         
     - Frames en archivos individuales. Idealmente, todos los frames son de la misma anchura, y por supuesto fondo transparente.
-    
-### Git Gud
-
-### Anchors and other dark magic
 
 ### Q&A
- 
-    

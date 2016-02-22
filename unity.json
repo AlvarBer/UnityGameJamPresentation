@@ -1,6 +1,20 @@
 {
   "slides": [
     {
+      "components": [],
+      "z": 0,
+      "impScale": 10,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "background": "bg-transparent",
+      "x": 718,
+      "y": 387
+    },
+    {
       "components": [
         {
           "src": "https://s-media-cache-ak0.pinimg.com/originals/09/c0/4b/09c04b5c6a865d101a20c734477beac1.gif",
@@ -46,11 +60,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 0,
+      "index": 1,
       "selected": false,
       "active": false,
-      "x": 137,
-      "y": 106
+      "x": 141,
+      "y": 108
     },
     {
       "components": [
@@ -70,11 +84,13 @@
         {
           "src": "http://blorente.github.io/images/avatar.png",
           "type": "Image",
-          "x": 788,
-          "y": 10,
+          "x": 789,
+          "y": 3,
           "scale": {
-            "x": 1,
-            "y": 1
+            "x": 0.1079203334877257,
+            "y": 0.1079203334877257,
+            "width": 232.9999999999998,
+            "height": 312.64520611394136
           },
           "imageType": "PNG",
           "selected": false
@@ -148,13 +164,13 @@
         {
           "src": "http://i.imgur.com/yutpmDm.png?1",
           "type": "Image",
-          "x": 30,
-          "y": 279,
+          "x": 6,
+          "y": 271,
           "scale": {
-            "x": 0.36594202898550726,
-            "y": 0.36594202898550726,
-            "width": 202,
-            "height": 203.09782608695653
+            "x": 0.4384057971014493,
+            "y": 0.4384057971014493,
+            "width": 242,
+            "height": 243.31521739130434
           },
           "imageType": "PNG",
           "selected": false
@@ -165,7 +181,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 1,
+      "index": 2,
       "selected": false,
       "active": false,
       "x": 416,
@@ -219,7 +235,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 2,
+      "index": 3,
       "selected": false,
       "active": false,
       "background": "bg-solid-smoke",
@@ -259,11 +275,65 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 3,
+      "index": 4,
       "selected": false,
       "active": false,
       "x": 958,
       "y": 107
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 409,
+          "y": 33,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Fail faster<br>",
+          "selected": false
+        },
+        {
+          "src": "https://lh4.ggpht.com/kou-gIH99CqUbkREUiV2F9VsmhBvTbPL802CHACBh9kib1G8t1T4Ybu_CGC0tv_qjQ=h900",
+          "type": "Image",
+          "x": 96,
+          "y": 102,
+          "scale": {
+            "x": 0.65,
+            "y": 0.65,
+            "width": 832,
+            "height": 520
+          },
+          "imageType": "COM/KOU-GIH99CQUBKREUIV2F9VSMHBVTBPL802CHACBH9KIB1G8T1T4YBU_CGC0TV_QJQ=H900",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 87,
+          "y": 660,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Tu juego no va a estar ni cerca de ser esto<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1244,
+      "y": 94
     },
     {
       "components": [
@@ -383,12 +453,12 @@
       "impScale": 3,
       "rotateX": 0,
       "rotateY": 0,
-      "rotateZ": 0,
-      "index": 4,
+      "rotateZ": 0.85,
+      "index": 6,
       "selected": false,
       "active": false,
-      "x": 1300,
-      "y": 180
+      "x": 1555,
+      "y": 115
     },
     {
       "components": [
@@ -432,15 +502,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 5,
       "rotateX": 0,
       "rotateY": 0,
-      "rotateZ": 0,
-      "index": 5,
+      "rotateZ": 1.04,
+      "index": 7,
       "selected": false,
       "active": false,
-      "x": 1225,
-      "y": 107
+      "x": 1631,
+      "y": 458
     },
     {
       "components": [
@@ -474,12 +544,12 @@
       "impScale": 3,
       "rotateX": 0,
       "rotateY": 0,
-      "rotateZ": 0,
-      "index": 6,
+      "rotateZ": 2.2,
+      "index": 8,
       "selected": false,
       "active": false,
-      "x": 1221,
-      "y": 295
+      "x": 1718,
+      "y": 856
     },
     {
       "components": [
@@ -487,7 +557,7 @@
           "src": "http://i.imgur.com/Rd0EgO2.gif",
           "type": "Image",
           "x": 173,
-          "y": 147,
+          "y": 176,
           "scale": {
             "x": 1.4125,
             "y": 1.4125,
@@ -496,6 +566,19 @@
           },
           "imageType": "GIF",
           "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 403,
+          "y": 38,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Lo se, lo se<br>",
+          "selected": false
         }
       ],
       "z": 0,
@@ -503,11 +586,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 7,
+      "index": 9,
       "selected": false,
       "active": false,
-      "x": 2140,
-      "y": 460
+      "x": 2037,
+      "y": 746
     },
     {
       "components": [
@@ -530,11 +613,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 8,
+      "index": 10,
       "selected": false,
       "active": false,
-      "x": 2420,
-      "y": 460
+      "x": 1225,
+      "y": 288
     },
     {
       "components": [
@@ -611,11 +694,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 9,
+      "index": 11,
       "selected": false,
       "active": false,
-      "x": 958,
-      "y": 292
+      "x": 959,
+      "y": 297
     },
     {
       "components": [
@@ -677,7 +760,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 10,
+      "index": 12,
       "selected": false,
       "active": false,
       "x": 694,
@@ -769,7 +852,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 11,
+      "index": 13,
       "selected": false,
       "active": false,
       "x": 418,
@@ -780,7 +863,7 @@
         {
           "TextBox": {},
           "x": 363,
-          "y": 31,
+          "y": 14,
           "scale": {
             "x": 1,
             "y": 1
@@ -791,108 +874,17 @@
           "selected": false
         },
         {
-          "TextBox": {},
-          "x": 320,
-          "y": 256,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "Meter nuestro .gitignore<br>",
-          "selected": false
-        }
-      ],
-      "z": 0,
-      "impScale": 3,
-      "rotateX": 0,
-      "rotateY": 0,
-      "rotateZ": 0,
-      "index": 12,
-      "selected": false,
-      "active": false,
-      "x": 140,
-      "y": 284
-    },
-    {
-      "components": [
-        {
-          "TextBox": {},
-          "x": 394,
-          "y": 22,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 72,
-          "text": "Gitflow<br>",
-          "selected": false
-        },
-        {
-          "src": "https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/centralized-workflow/05.svg",
+          "src": "http://i.imgur.com/54APYKs.png?1",
           "type": "Image",
-          "x": 224,
-          "y": 142,
+          "x": 25,
+          "y": 125,
           "scale": {
-            "width": 576.3948648004173,
-            "height": 576.3948648004173
+            "x": 0.5770128354725788,
+            "y": 0.5770128354725788,
+            "width": 989,
+            "height": 606.4404900816803
           },
-          "imageType": "SVG",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 266,
-          "y": 646,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<font color=\"#000000\" face=\"Lato\">Modelo centralizado(sin ramas)<br></font>",
-          "selected": false
-        }
-      ],
-      "z": 0,
-      "impScale": 3,
-      "rotateX": 0,
-      "rotateY": 0,
-      "rotateZ": 0,
-      "index": 13,
-      "selected": false,
-      "active": false,
-      "x": 144,
-      "y": 476
-    },
-    {
-      "components": [
-        {
-          "TextBox": {},
-          "x": 394,
-          "y": 43,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 72,
-          "text": "Gitflow",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 269,
-          "y": 356,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "[Aquí va un dibujito que ya haré]<br>",
+          "imageType": "PNG",
           "selected": false
         }
       ],
@@ -904,36 +896,36 @@
       "index": 14,
       "selected": false,
       "active": false,
-      "x": 418,
-      "y": 477
+      "x": 151,
+      "y": 293
     },
     {
       "components": [
         {
           "TextBox": {},
-          "x": 323,
-          "y": 14,
+          "x": 380,
+          "y": 21,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 64,
-          "text": "Git + Binarios<br>",
+          "size": 72,
+          "text": "Gitflow?<br>",
           "selected": false
         },
         {
-          "TextBox": {},
-          "x": 369,
-          "y": 152,
+          "src": "https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/centralized-workflow/05.svg",
+          "type": "Image",
+          "x": 62,
+          "y": 9,
           "scale": {
-            "x": 1,
-            "y": 1
+            "width": 900.9321456720071,
+            "height": 900.9321456720071
           },
-          "type": "TextBox",
-          "size": 36,
-          "text": "Todo en el repo<br>",
-          "selected": false
+          "imageType": "SVG",
+          "selected": false,
+          "skewY": 0
         }
       ],
       "z": 0,
@@ -944,8 +936,88 @@
       "index": 15,
       "selected": false,
       "active": false,
-      "x": 695,
+      "x": 144,
+      "y": 476
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 164,
+          "y": 43,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Centralized Workflow<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/4sd3ITE.png",
+          "type": "Image",
+          "x": 102,
+          "y": 135,
+          "scale": {
+            "x": 0.8552083333333333,
+            "y": 0.8552083333333333,
+            "width": 821,
+            "height": 615.75
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 418,
       "y": 477
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 164,
+          "y": 18,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Centralized Workflow<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/centralized-workflow/11.svg",
+          "type": "Image",
+          "x": 200,
+          "y": 85,
+          "scale": {
+            "width": 624.3928841600691,
+            "height": 624.3928841600691
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 696,
+      "y": 481
     },
     {
       "components": [
@@ -965,8 +1037,8 @@
         {
           "src": "https://assets-cdn.github.com/images/modules/pricing/git-lfs-logo.png",
           "type": "Image",
-          "x": 63,
-          "y": 269,
+          "x": 75,
+          "y": 230,
           "scale": {
             "x": 1,
             "y": 1
@@ -976,8 +1048,8 @@
         },
         {
           "TextBox": {},
-          "x": 670,
-          "y": 279,
+          "x": 755,
+          "y": 274,
           "scale": {
             "x": 1,
             "y": 1
@@ -990,8 +1062,8 @@
         {
           "src": "https://git-annex.branchable.com/logo_small.png",
           "type": "Image",
-          "x": 95,
-          "y": 526,
+          "x": 50,
+          "y": 486,
           "scale": {
             "x": 1,
             "y": 1
@@ -1001,8 +1073,8 @@
         },
         {
           "TextBox": {},
-          "x": 128,
-          "y": 412,
+          "x": 293,
+          "y": 382,
           "scale": {
             "x": 1,
             "y": 1
@@ -1014,8 +1086,8 @@
         },
         {
           "TextBox": {},
-          "x": 723,
-          "y": 450,
+          "x": 595,
+          "y": 388,
           "scale": {
             "x": 1,
             "y": 1
@@ -1027,8 +1099,8 @@
         },
         {
           "TextBox": {},
-          "x": 378,
-          "y": 520,
+          "x": 302,
+          "y": 530,
           "scale": {
             "x": 1,
             "y": 1
@@ -1037,6 +1109,20 @@
           "size": 48,
           "text": "git-bigstore",
           "selected": false
+        },
+        {
+          "src": "https://raw.githubusercontent.com/tiesselune/git-jam/master/git-jam.png",
+          "type": "Image",
+          "x": 781,
+          "y": 519,
+          "scale": {
+            "x": 0.36637931034482757,
+            "y": 0.36637931034482757,
+            "width": 85,
+            "height": 101.12068965517241
+          },
+          "imageType": "PNG",
+          "selected": false
         }
       ],
       "z": 0,
@@ -1044,7 +1130,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 16,
+      "index": 18,
       "selected": false,
       "active": false,
       "x": 962,
@@ -1099,7 +1185,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 17,
+      "index": 19,
       "selected": false,
       "active": false,
       "x": 1225,
@@ -1140,7 +1226,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 18,
+      "index": 20,
       "selected": false,
       "active": false,
       "x": 1229,
@@ -1281,7 +1367,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 19,
+      "index": 21,
       "selected": false,
       "active": false,
       "background": "bg-solid-smoke",
@@ -1292,21 +1378,21 @@
       "components": [
         {
           "TextBox": {},
-          "x": 112,
-          "y": 66,
+          "x": 96,
+          "y": 49,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 48,
-          "text": "Pero es importante ponerse de acuerdo:<br>",
+          "text": "<div align=\"center\">Pero es importante ponerse de acuerdo:<br></div>",
           "selected": false
         },
         {
           "TextBox": {},
-          "x": 56,
-          "y": 481,
+          "x": 49,
+          "y": 480,
           "scale": {
             "x": 1,
             "y": 1
@@ -1318,8 +1404,8 @@
         },
         {
           "TextBox": {},
-          "x": 419,
-          "y": 692,
+          "x": 428,
+          "y": 691,
           "scale": {
             "x": 1,
             "y": 1
@@ -1341,19 +1427,19 @@
             "height": 250.43040629095674
           },
           "imageType": "PNG",
-          "selected": true
+          "selected": false
         }
       ],
       "z": 0,
       "impScale": 3,
       "rotateX": 0,
-      "rotateY": 0,
+      "rotateY": -1.57,
       "rotateZ": 0,
-      "index": 20,
-      "selected": true,
-      "active": true,
-      "x": 5780,
-      "y": 1020
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 700,
+      "y": 667
     },
     {
       "components": [],
@@ -1362,12 +1448,12 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 21,
+      "index": 23,
       "selected": false,
       "active": false,
       "background": "bg-transparent",
-      "x": 690,
-      "y": 671
+      "x": 420,
+      "y": 674
     },
     {
       "components": [
@@ -1431,81 +1517,28 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 22,
+      "index": 24,
       "selected": false,
       "active": false,
-      "x": 414,
-      "y": 670,
+      "x": 147,
+      "y": 672,
       "markdown": ""
     }
   ],
   "background": "bg-solid-smoke",
   "activeSlide": {
-    "components": [
-      {
-        "TextBox": {},
-        "x": 112,
-        "y": 66,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 48,
-        "text": "Pero es importante ponerse de acuerdo:<br>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 56,
-        "y": 481,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 48,
-        "text": "Los artistas no tienen por qué saber de Unity<br><br>Tú no tienes por qué saber de Photoshop<br>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 419,
-        "y": 692,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 24,
-        "text": "(digoooo, GIMP)",
-        "selected": false
-      },
-      {
-        "src": "http://i.imgur.com/WN41sl2.png",
-        "type": "Image",
-        "x": 67,
-        "y": 188,
-        "scale": {
-          "x": 0.24456094364351244,
-          "y": 0.24456094364351244,
-          "width": 933,
-          "height": 250.43040629095674
-        },
-        "imageType": "PNG",
-        "selected": true
-      }
-    ],
+    "components": [],
     "z": 0,
-    "impScale": 3,
+    "impScale": 10,
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 20,
+    "index": 0,
     "selected": true,
     "active": true,
-    "x": 5780,
-    "y": 1020
+    "background": "bg-transparent",
+    "x": 718,
+    "y": 387
   },
   "fileName": "Unity 2016 Course",
   "surface": "img:http://i.imgur.com/fTj6f2I.png",
@@ -1513,6 +1546,6 @@
   "customBackgrounds": {
     "bgs": []
   },
-  "overviewX": 2958.5,
-  "overviewY": 563
+  "overviewX": 1089,
+  "overviewY": 475
 }
